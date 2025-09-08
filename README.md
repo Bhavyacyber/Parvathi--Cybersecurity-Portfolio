@@ -20,5 +20,9 @@ Google Cybersecurity Professional Certificate
 - Project 6: [Vulnerability_assessment_report](portfolio_projects/6_Vulnerability_assessment_report.pdf)
 - Project 7: [Documenting_incidents_with_an_incident_handler's_journal](portfolio_projects/7_Documenting_incidents_with_an_incident_handler's_journal.pdf)
 - Project 8: [Update_a_file_through_a_Python_algorithm](portfolio_projects/8_Update_a_file_through_a_Python_algorithm.pdf)
+## 💻 Self Projects
+- Project 1: [Phishing Email Detection Guide](SELF PORTFOLIO PROJECTS/Phishing Email Detection Guide.pdf)
+- Project 2: [Port Scanning & Network Reconnaisance using Nmap](SELF PORTFOLIO PROJECTS/Phishing Email Detection Guide.pdf)
+- Project 2: [Strong Password Policy and Password Cracking Demo](SELF PORTFOLIO PROJECTS/Strong Password Policy and Password Cracking Demo.pdf)
 ---
 📫 Reach me at: [ LinkedIn](https://www.linkedin.com/in/bhavya-naga-sai-parvathi-kshatri-3140251a2) | [Email](mailto:bhavyanagasai@gmail.com)
