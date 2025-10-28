@@ -4,6 +4,13 @@
 Welcome to my professional portfolio repository!  
 Here you will find my documents, certifications, and project work.
 
+Transitioning from civil/structural engineering to cybersecurity, I'm passionate about building new skills from the ground up. Although I started in a completely different domain and am still early in my journey (with Google’s Cybersecurity course and self-study), I’m committed to learning, problem-solving, and growing every day.
+
+My background has taught me perseverance and analytical thinking—qualities I now bring to cybersecurity. I’m actively preparing for industry certifications, and eager to collaborate, learn, and contribute step by step.
+
+If you’re looking for a motivated, adaptable, and hardworking candidate with a fresh perspective, let’s connect!
+
+
 ## 📄 Resume
 - [Download my Resume](PARVATHI_RESUME_CYBERSECURITY.pdf)
 
