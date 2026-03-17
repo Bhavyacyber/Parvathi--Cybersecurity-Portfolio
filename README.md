@@ -4,11 +4,61 @@
 Welcome to my professional portfolio repository!  
 Here you will find my documents, certifications, and project work.
 
-Transitioning from civil/structural engineering to cybersecurity, I'm passionate about building new skills from the ground up. Although I started in a completely different domain and am still early in my journey (with Google’s Cybersecurity course and self-study), I’m committed to learning, problem-solving, and growing every day.
+T👩‍💻 About Me
 
-My background has taught me perseverance and analytical thinking—qualities I now bring to cybersecurity. I’m actively preparing for industry certifications, and eager to collaborate, learn, and contribute step by step.
+I am a cybersecurity enthusiast with a strong foundation in security fundamentals and a growing focus on AI Security, API Security, and Threat Analysis. I am actively building my skills to transition into roles such as SOC Analyst and AI Security Analyst.
 
-If you’re looking for a motivated, adaptable, and hardworking candidate with a fresh perspective, let’s connect!
+With a background in engineering and a keen interest in technology, I enjoy learning how systems work, identifying vulnerabilities, and understanding how to secure modern applications and AI-driven environments.
+
+🔐 Skills
+
+Cybersecurity Fundamentals
+
+AI Security & Generative AI Risks
+
+Threat Modeling & Risk Assessment
+
+Adversarial Machine Learning (Basics)
+
+API Security Concepts
+
+Security Monitoring & Analysis (Beginner)
+
+Network Security Basics
+
+Incident Response (Fundamentals)
+
+Governance, Risk & Compliance (GRC - Basics)
+
+📜 Certifications
+
+CAISR (Certified AI Security Researcher) – from Red Team Leaders
+
+ISC2 Certified in Cybersecurity (CC) – from ISC2
+
+Google Cybersecurity Certificate – from Google
+
+API Security Certification – from Wallarm
+
+DPDPA Certification (India Data Protection)
+
+🚀 Current Focus
+
+Building hands-on projects in cybersecurity
+
+Learning SOC operations and real-world threat detection
+
+Exploring AI security vulnerabilities and defenses
+
+Strengthening practical skills through labs and simulations
+
+🎯 Career Goal
+
+To start my career in Cybersecurity (SOC / AI Security roles) and continuously grow into a skilled security professional capable of protecting modern digital and AI-driven systems.
+
+📌 Let’s Connect
+
+I am open to learning opportunities, internships, and entry-level roles in cybersecurity.
 
 
 ## 📄 Resume
