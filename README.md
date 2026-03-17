@@ -81,6 +81,6 @@ Google Cybersecurity Professional Certificate
 - Project 1: [Phishing_Email_Detection_Guide](SELF_PORTFOLIO_PROJECTS/Phishing_Email_Detection_Guide.pdf)
 - Project 2: [Strong_Password_Policy_and_Password_Cracking_Demo](SELF_PORTFOLIO_PROJECTS/Strong_Password_Policy_and_Password_Cracking_Demo.pdf)
 - Project 3: [Port_Scanning_and_Network_Reconnaissance_using_Nmap](SELF_PORTFOLIO_PROJECTS/Port_Scanning_and_Network_Reconnaissance_with_Nmap.pdf)
-- Project 4: [OWASP Juice Shop Vulnerability Testing Report- Parvathi](<SELF_PORTFOLIO_PROJECTS/OWASP Juice Shop Vulnerability Testing Report- Parvathi (1).pdf>)](SELF_PORTFOLIO_PROJECTS\OWASP Juice Shop Vulnerability Testing Report- Parvathi (1).pdf)
+- Project 4: [OWASP Juice Shop Vulnerability Testing Report- Parvathi](<SELF_PORTFOLIO_PROJECTS/OWASP Juice Shop Vulnerability Testing Report- Parvathi (1).pdf>)
 ---
 📫 Reach me at: [ LinkedIn](https://www.linkedin.com/in/bhavya-naga-sai-parvathi-kshatri-3140251a2) | [Email](mailto:bhavyanagasai@gmail.com)
