@@ -12,7 +12,7 @@ If you’re looking for a motivated, adaptable, and hardworking candidate with a
 
 
 ## 📄 Resume
-- [Download my Resume](PARVATHI_RESUME_CYBERSECURITY.pdf)
+- [Download my Resume](BHAVYA PARVATHI - RESUME.pdf)
 
 ## 🏆 Certifications
 Google Cybersecurity Professional Certificate
