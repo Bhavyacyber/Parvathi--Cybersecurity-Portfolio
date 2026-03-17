@@ -4,7 +4,7 @@
 Welcome to my professional portfolio repository!  
 Here you will find my documents, certifications, and project work.
 
-T👩‍💻 About Me
+👩‍💻 About Me
 
 I am a cybersecurity enthusiast with a strong foundation in security fundamentals and a growing focus on AI Security, API Security, and Threat Analysis. I am actively building my skills to transition into roles such as SOC Analyst and AI Security Analyst.
 
@@ -12,35 +12,35 @@ With a background in engineering and a keen interest in technology, I enjoy lear
 
 🔐 Skills
 
-Cybersecurity Fundamentals
+1.Cybersecurity Fundamentals
 
-AI Security & Generative AI Risks
+2.AI Security & Generative AI Risks
 
-Threat Modeling & Risk Assessment
+3.Threat Modeling & Risk Assessment
 
-Adversarial Machine Learning (Basics)
+4.Adversarial Machine Learning (Basics)
 
-API Security Concepts
+5.API Security Concepts
 
-Security Monitoring & Analysis (Beginner)
+6.Security Monitoring & Analysis (Beginner)
 
-Network Security Basics
+7.Network Security Basics
 
-Incident Response (Fundamentals)
+8.Incident Response (Fundamentals)
 
-Governance, Risk & Compliance (GRC - Basics)
+9.Governance, Risk & Compliance (GRC - Basics)
 
 📜 Certifications
 
-CAISR (Certified AI Security Researcher) – from Red Team Leaders
+1.CAISR (Certified AI Security Researcher) – from Red Team Leaders
 
-ISC2 Certified in Cybersecurity (CC) – from ISC2
+2.ISC2 Certified in Cybersecurity (CC) – from ISC2
 
-Google Cybersecurity Certificate – from Google
+3.Google Cybersecurity Certificate – from Google
 
-API Security Certification – from Wallarm
+4.API Security Certification – from Wallarm
 
-DPDPA Certification (India Data Protection)
+5.DPDPA Certification (India Data Protection)
 
 🚀 Current Focus
 
