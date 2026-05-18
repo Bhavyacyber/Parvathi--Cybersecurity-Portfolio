@@ -62,7 +62,7 @@ I am open to learning opportunities, internships, and entry-level roles in cyber
 
 
 ## 📄 Resume
-- [Download my Resume](Parvathi--Cybersecurity-Portfolio\Bhavya_Parvathi_Resume.pdf)
+- [Download my Resume](Bhavya_Parvathi_Resume.pdf)
 
 ## 🏆 Certifications
 Google Cybersecurity Professional Certificate
