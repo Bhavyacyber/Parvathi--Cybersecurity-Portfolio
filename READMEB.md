@@ -2,7 +2,7 @@
 
 **Penetration Tester | API Security | SOC & Threat Detection**
 
- bhavyanagasai@gmail.com &nbsp;|&nbsp; 📍 India &nbsp;|&nbsp; [LinkedIn](#)
+ bhavyanagasai@gmail.com &nbsp;|&nbsp; 📍 India &nbsp;|&nbsp; [LinkedIn](www.linkedin.com/in/bhavya-naga-sai-parvathi-kshatri-3140251a2)
 
 ---
 
@@ -42,7 +42,7 @@ A black-box style assessment of OWASP Juice Shop covering 5 vulnerability classe
 | 4 | DOM XSS — iframe javascript: payload | XSS | Medium |
 | 5 | Filter Bypass XSS — obfuscated iframe payload | XSS | Medium |
 
-📄 **[Full VAPT Report (PDF)](./reports/JuiceShop_VAPT_Report.pdf)**  
+📄 **[Full Report (PDF)]   (SELF_PORTFOLIO_PROJECTS\OWASP Juice Shop Vulnerability Testing Report- Parvathi (1).pdf)**  
 *Report includes: PoC steps · Impact analysis · OWASP Top 10 mapping · Remediation recommendations*
 
 ---
@@ -55,19 +55,19 @@ Black-box assessment of a REST API. Identified 5 vulnerabilities including:
 - **Broken Authentication** — weak token validation
 - **Input Validation Flaws** — 2 findings rated High severity (CVSS)
 
-📄 **[Full VAPT Report (PDF)](./reports/API_VAPT_Report.pdf)**
+📄 **[Full VAPT Report (PDF)](SELF_PORTFOLIO_PROJECTS\Wallarm_API_VAPT_Report.pdf)**
 
 ---
 
 ### 🟡 Network Reconnaissance & Vulnerability Scan
-**Tools:** Nmap (NSE), Recon-ng, OpenVAS
+**Tools:** Nmap (NSE), Recon-ng
 
 End-to-end footprinting and recon on an isolated lab environment:
 - Mapped **12 open services** and **3 exposed ports**
 - Used Nmap NSE for OS fingerprinting, service enumeration, and misconfiguration detection
 - Flagged **4 exploitable vulnerabilities** with CVSS risk ratings
 
-📄 **[Reconnaissance Report (PDF)](./reports/Network_Recon_Report.pdf)**
+📄 **[Reconnaissance Report (PDF)](SELF_PORTFOLIO_PROJECTS\project_footprinting_reconnaissance_networkscanning.pdf)**
 
 ---
 
@@ -80,7 +80,7 @@ Investigated 10+ phishing email samples:
 - Documented attacker TTPs: domain spoofing, redirect chaining, header manipulation
 - Produced structured threat report with recommended mail gateway filter rules
 
-📄 **[Threat Investigation Report (PDF)](./reports/Phishing_Investigation_Report.pdf)**
+📄 **[Threat Investigation Report (PDF)](SELF_PORTFOLIO_PROJECTS\Phishing_Email_Detection_Guide.pdf)**
 
 ---
 
@@ -114,7 +114,7 @@ Every assessment I run ends with a structured report. Not just a list of finding
 - Root-cause analysis
 - Prioritised remediation recommendations written for both developers and management
 
-Reports are in the `/reports` folder of each project.
+Reports are in the `/SELF_PORTFOLIO_PROJECTS` folder of each project.
 
 ---
 
