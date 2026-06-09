@@ -42,7 +42,7 @@ A black-box style assessment of OWASP Juice Shop covering 5 vulnerability classe
 | 4 | DOM XSS — iframe javascript: payload | XSS | Medium |
 | 5 | Filter Bypass XSS — obfuscated iframe payload | XSS | Medium |
 
-📄 **[Full Report (PDF)]   (SELF_PORTFOLIO_PROJECTS\OWASP Juice Shop Vulnerability Testing Report- Parvathi (1).pdf)**  
+📄 **[Full Report (PDF)](SELF_PORTFOLIO_PROJECTS\OWASP_Juice_Shop_Vulnerability_Testing_Report_Parvathi.pdf)**  
 *Report includes: PoC steps · Impact analysis · OWASP Top 10 mapping · Remediation recommendations*
 
 ---
