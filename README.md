@@ -7,13 +7,13 @@ My goal is to help secure real products across their lifecycle. I’m building t
 **Career direction:** Entry-level AI Application Security roles · India / open to remote
 **Portfolio website:** [bhavyacyber.github.io](https://bhavyacyber.github.io/)
 
-**Quick links:** [Resume](Bhavya_Parvathi_SOC_Resume.pdf) · [Featured work](#featured-work) · [POCs and reports](#pocs-and-assessment-reports) · [Certificates](#certificates) · [Contact](#contact)
+**Quick links:** [Resume](Bhavya_Parvathi_Resume_updated.pdf) · [Featured work](#featured-work) · [POCs and reports](#pocs-and-assessment-reports) · [Certificates](#certificates) · [Contact](#contact)
 
 ---
 
 ## Resume
 
-[View or download my resume](Bhavya_Parvathi_SOC_Resume.pdf)
+[View or download my resume](Bhavya_Parvathi_Resume_updated.pdf)
 
 ## Skills and tools
 
@@ -89,4 +89,4 @@ These write-ups document the scope, approach, findings, and recommendations for 
 - [LinkedIn](https://linkedin.com/in/bhavyaparvathi)
 - [Email](mailto:bhavyanagasai@gmail.com)
 
-Open to SOC Analyst and Blue Team opportunities. Thank you for taking a look at my work.
+Open to entry-level AI Application Security opportunities. Thank you for taking a look at my work.
