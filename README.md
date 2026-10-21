@@ -7,7 +7,7 @@ My goal is to help secure real products across their lifecycle. I’m building t
 **Career direction:** Entry-level AI Application Security roles · India / open to remote
 **Portfolio website:** [bhavyacyber.github.io](https://bhavyacyber.github.io/)
 
-**Quick links:** [Resume](Bhavya_Parvathi_Resume_updated.pdf) · [Featured work](#featured-work) · [POCs and reports](#pocs-and-assessment-reports) · [Certificates](#certificates) · [Contact](#contact)
+**Quick links:** [Resume](Bhavya_Parvathi_Resume_updated.pdf) · [Internship POCs](#internship-pocs) · [Featured work](#featured-work) · [POCs and reports](#pocs-and-assessment-reports) · [Certificates](#certificates) · [Contact](#contact)
 
 ---
 
@@ -22,6 +22,13 @@ My goal is to help secure real products across their lifecycle. I’m building t
 - **AI application security:** Building knowledge in LLM security and prompt-injection testing
 - **Security foundations:** Wireshark, Nmap, Linux, Kali Linux, Python, Bash
 - **Supporting experience:** Phishing investigation, log analysis, threat detection, Splunk, VirusTotal
+
+## Internship POCs
+
+| Internship | Report |
+|---|---|
+| Redynox | [View internship report](Internships/Internship_Report_Parvathi.pdf) |
+| iTelematics | Report to be added |
 
 ## Featured work
 
